@@ -1,0 +1,14 @@
+You Need 3 Package For Executing This Project
+
+1>pip install opencv-python
+2>pip install opencv-contrib-python
+3>pip install numpy
+
+
+First Run "Capture Your Pic.py" File 
+Then Run "CV2 Face Detection.py" File
+
+
+Here I Have Used "haarcascade_frontalface_default" Classifier that is also i have Provided
+
+Keep Every Thing in the Same Directory 
